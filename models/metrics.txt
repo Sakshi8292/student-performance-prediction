@@ -1,0 +1,14 @@
+Student Performance Prediction - Linear Regression
+====================================================
+MAE  : 5.18
+RMSE : 6.39
+R2   : 0.649
+
+Feature Coefficients (standardized):
+  previous_scores     : 5.007
+  hours_studied       : 4.000
+  attendance_pct      : 3.000
+  parental_education  : 1.421
+  internet_access     : 1.042
+  sleep_hours         : 1.036
+  extracurricular     : 0.719
